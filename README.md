@@ -15,3 +15,8 @@ A self-initiated project simulating a real-world product strategy and trend oper
 - **TikTok Discovery (qualitative review)**
 - Excel
 - PowerPoint (campaign documentation & presentation)
+
+## Files Included
+- `UK_Ireland_Trend_Research.xlsx` – Trend analysis and insights
+- `Trend_Campaign_Strategy_Report.pptx` – Executive-style campaign plan report
+- `README.md` – Project description and structure
