@@ -11,7 +11,6 @@ A self-initiated project simulating a real-world product strategy and trend oper
 
 ## Tools & Platforms Used
 - **Google Trends**
-- **YouTube Trending**
 - **TikTok Discovery (qualitative review)**
 - Excel
 - PowerPoint (campaign documentation & presentation)
